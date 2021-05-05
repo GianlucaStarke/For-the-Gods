@@ -1,0 +1,1 @@
+coinsGain = 0;
