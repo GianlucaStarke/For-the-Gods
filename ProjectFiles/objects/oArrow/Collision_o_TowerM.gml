@@ -1,1 +1,1 @@
-
+objectToShoot = other.en;
