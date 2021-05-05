@@ -1,1 +1,1 @@
-
+col = c_white;
