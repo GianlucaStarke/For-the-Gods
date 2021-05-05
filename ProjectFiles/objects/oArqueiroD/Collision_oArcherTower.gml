@@ -1,1 +1,1 @@
-
+if (other.status = 3) col = c_red;
