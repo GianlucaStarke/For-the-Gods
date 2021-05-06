@@ -1,1 +1,5 @@
-
+instance_destroy(oMenuInicialParent)
+instance_create_depth((room_width/2)-250,(room_height/2)+100,-1,oFaseInfinita)
+instance_create_depth((room_width/2)+250,(room_height/2)+100,-1,oFaseFinita)
+instance_create_depth((room_width/2),(room_height/2)+150,-1,oBack)
+instance_create_depth((room_width/2),(room_height/2)-150,-1,oSelectStage)
