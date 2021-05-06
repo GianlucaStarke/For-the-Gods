@@ -1,1 +1,1 @@
-
+room_goto(Menu_Inicial);
