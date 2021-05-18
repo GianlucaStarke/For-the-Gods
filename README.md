@@ -6,6 +6,6 @@ Eu apenas fiz a parte lógica do trabalho, o design foi feito pelos meus colegas
 
 Inglish
 
-"For the Gods" is an course-end project created by me and two more friends.
+"For the Gods" is a course-end project created by me and two more friends.
 It is a tower defense based game made at GameMaker Studio 2 using GML.
 I was responsible for the coding, all the disign substance was made by my co-workers.
