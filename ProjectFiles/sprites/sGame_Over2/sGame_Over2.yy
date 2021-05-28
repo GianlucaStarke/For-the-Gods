@@ -1,0 +1,170 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 4,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 448,
+  "bbox_right": 1519,
+  "bbox_top": 248,
+  "bbox_bottom": 919,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 1920,
+  "height": 1080,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"9eb5e6e6-42cf-4f09-92b2-7e8cda42ce37","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9eb5e6e6-42cf-4f09-92b2-7e8cda42ce37","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"9eb5e6e6-42cf-4f09-92b2-7e8cda42ce37","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a62e39e0-579e-4adf-a022-ecb823136009","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a62e39e0-579e-4adf-a022-ecb823136009","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"a62e39e0-579e-4adf-a022-ecb823136009","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f6d80f3e-e51f-4214-ad81-f8b3cf98fdac","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f6d80f3e-e51f-4214-ad81-f8b3cf98fdac","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"f6d80f3e-e51f-4214-ad81-f8b3cf98fdac","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8b755206-d216-416f-820e-abd75daa6b89","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8b755206-d216-416f-820e-abd75daa6b89","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"8b755206-d216-416f-820e-abd75daa6b89","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"607135cd-b179-4808-b80b-7186e32c10ee","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"607135cd-b179-4808-b80b-7186e32c10ee","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"607135cd-b179-4808-b80b-7186e32c10ee","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"608c87d0-f68c-44a3-a485-b774b8be16cc","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"608c87d0-f68c-44a3-a485-b774b8be16cc","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"608c87d0-f68c-44a3-a485-b774b8be16cc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"77eaa6eb-5cca-41dd-8a7d-a44d4c18e924","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"77eaa6eb-5cca-41dd-8a7d-a44d4c18e924","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"77eaa6eb-5cca-41dd-8a7d-a44d4c18e924","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"84d9685b-2503-46ca-9c0d-ece43320e385","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"84d9685b-2503-46ca-9c0d-ece43320e385","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"84d9685b-2503-46ca-9c0d-ece43320e385","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"00841a8b-ac15-4c93-99c2-03b82d15fda3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"00841a8b-ac15-4c93-99c2-03b82d15fda3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"00841a8b-ac15-4c93-99c2-03b82d15fda3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6b886de3-ccf9-4658-a728-d47c1a0f8875","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6b886de3-ccf9-4658-a728-d47c1a0f8875","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"6b886de3-ccf9-4658-a728-d47c1a0f8875","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"87e24beb-7502-48a4-be79-40c1983f9f16","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"87e24beb-7502-48a4-be79-40c1983f9f16","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"87e24beb-7502-48a4-be79-40c1983f9f16","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"89fa6560-967a-45c3-a9b1-697c72186419","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"89fa6560-967a-45c3-a9b1-697c72186419","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"89fa6560-967a-45c3-a9b1-697c72186419","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"fa7136e9-987e-4741-9ac1-ba5ab7bdf2a1","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"fa7136e9-987e-4741-9ac1-ba5ab7bdf2a1","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"fa7136e9-987e-4741-9ac1-ba5ab7bdf2a1","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"67d2faf8-b913-46d0-98a1-6f398e02316c","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"67d2faf8-b913-46d0-98a1-6f398e02316c","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"67d2faf8-b913-46d0-98a1-6f398e02316c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f8416dab-4438-4ced-8123-1e9b9e3895a0","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f8416dab-4438-4ced-8123-1e9b9e3895a0","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"f8416dab-4438-4ced-8123-1e9b9e3895a0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7a49d01e-6f06-459b-8fa8-9cb2c6838dc8","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7a49d01e-6f06-459b-8fa8-9cb2c6838dc8","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"7a49d01e-6f06-459b-8fa8-9cb2c6838dc8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0a05de32-fa06-4ee1-822d-56bcd4fab16e","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0a05de32-fa06-4ee1-822d-56bcd4fab16e","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"0a05de32-fa06-4ee1-822d-56bcd4fab16e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"cf13077c-7b13-4d8c-a998-a17f710daa35","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"cf13077c-7b13-4d8c-a998-a17f710daa35","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"cf13077c-7b13-4d8c-a998-a17f710daa35","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ec2acc71-9d03-40c0-a7a8-fa886b9a6588","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ec2acc71-9d03-40c0-a7a8-fa886b9a6588","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"ec2acc71-9d03-40c0-a7a8-fa886b9a6588","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"da955e38-5c53-45d0-824f-6c6e2e33fb89","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"da955e38-5c53-45d0-824f-6c6e2e33fb89","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"da955e38-5c53-45d0-824f-6c6e2e33fb89","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"91d6705a-111c-452f-bc8f-df0b480e325d","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"91d6705a-111c-452f-bc8f-df0b480e325d","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"91d6705a-111c-452f-bc8f-df0b480e325d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e9d7cc09-0afc-444d-9eb7-2ff77f03d72c","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e9d7cc09-0afc-444d-9eb7-2ff77f03d72c","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"e9d7cc09-0afc-444d-9eb7-2ff77f03d72c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"41930310-684a-4e04-9d83-4aed5bed0bad","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"41930310-684a-4e04-9d83-4aed5bed0bad","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"41930310-684a-4e04-9d83-4aed5bed0bad","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"48f5894e-8902-430a-918c-60d14d16a349","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"48f5894e-8902-430a-918c-60d14d16a349","path":"sprites/sGame_Over2/sGame_Over2.yy",},"LayerId":{"name":"d88f793f-e305-42e2-8ec4-778203bfedd3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","name":"48f5894e-8902-430a-918c-60d14d16a349","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 1.0,
+    "playbackSpeedType": 1,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 24.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"ca10b0e1-9771-490d-b37b-2005307485a6","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9eb5e6e6-42cf-4f09-92b2-7e8cda42ce37","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e368ded7-b904-4ad5-abaf-d2b0fe5ea76f","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a62e39e0-579e-4adf-a022-ecb823136009","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8457ada1-64ab-4774-ab01-4fe6fab1bc6e","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f6d80f3e-e51f-4214-ad81-f8b3cf98fdac","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f098d333-40a9-4130-bd9f-60528fcee59f","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8b755206-d216-416f-820e-abd75daa6b89","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e29c613e-6270-4925-bb57-4873f174b8c4","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"607135cd-b179-4808-b80b-7186e32c10ee","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3b593e60-8f56-40f8-93b0-f33b170d5349","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"608c87d0-f68c-44a3-a485-b774b8be16cc","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fe2f208c-8f0b-4a1e-b8c3-5edebbee1ea0","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"77eaa6eb-5cca-41dd-8a7d-a44d4c18e924","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d97c832c-b82a-4e5b-86ab-035c045c4671","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"84d9685b-2503-46ca-9c0d-ece43320e385","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2ab03cc3-92b4-446b-b38d-2381cc825325","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"00841a8b-ac15-4c93-99c2-03b82d15fda3","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"18586798-046b-425c-bd57-8eb639998e75","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6b886de3-ccf9-4658-a728-d47c1a0f8875","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a2a976df-b3f7-45e3-8533-1bb200210de8","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"87e24beb-7502-48a4-be79-40c1983f9f16","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"38f834b1-bb66-416d-9651-7bc7b5504ed7","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"89fa6560-967a-45c3-a9b1-697c72186419","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f43a4b5e-8065-449b-809f-1ecb4b9b10d2","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fa7136e9-987e-4741-9ac1-ba5ab7bdf2a1","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"49351d32-4780-4415-b506-c3a34befad59","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"67d2faf8-b913-46d0-98a1-6f398e02316c","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6d2e8c03-6f5a-48d7-b4ef-f2ca60f46c4d","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f8416dab-4438-4ced-8123-1e9b9e3895a0","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7b6c274c-87a2-4ee0-abff-0857bdcfa14a","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7a49d01e-6f06-459b-8fa8-9cb2c6838dc8","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0b11766d-cb1e-421a-81d5-4b4b1d9809e4","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0a05de32-fa06-4ee1-822d-56bcd4fab16e","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"dd4913cc-ef1f-4813-8f61-f357f56bcf76","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cf13077c-7b13-4d8c-a998-a17f710daa35","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"75ba709f-d92e-4fbb-a3d8-1c7999c5f19b","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ec2acc71-9d03-40c0-a7a8-fa886b9a6588","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"06325089-5de3-4ca3-b710-435ceeb6f023","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"da955e38-5c53-45d0-824f-6c6e2e33fb89","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"81d3170d-daa5-465c-9f9a-be7c8c9c5f43","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"91d6705a-111c-452f-bc8f-df0b480e325d","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d988f7a7-a986-430a-bb4e-622b43f145d0","Key":21.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e9d7cc09-0afc-444d-9eb7-2ff77f03d72c","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ec487af0-e8d1-4243-9b37-677b66d4ae27","Key":22.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"41930310-684a-4e04-9d83-4aed5bed0bad","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5ad08d4e-c71a-47e5-a76d-4aefe39c3dc3","Key":23.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"48f5894e-8902-430a-918c-60d14d16a349","path":"sprites/sGame_Over2/sGame_Over2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": null,
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1366,
+    "backdropHeight": 768,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 960,
+    "yorigin": 540,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"sGame_Over2","path":"sprites/sGame_Over2/sGame_Over2.yy",},
+    "resourceVersion": "1.3",
+    "name": "sGame_Over2",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d88f793f-e305-42e2-8ec4-778203bfedd3","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "parent": {
+    "name": "Animações",
+    "path": "folders/Sprites/GameOver/Animações.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "sGame_Over2",
+  "tags": [],
+  "resourceType": "GMSprite",
+}
